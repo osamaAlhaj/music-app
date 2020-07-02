@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Spotify premium account is needed to use the app.
 
 ## Backend server 
 https://github.com/Pensor/lyrisic-backend
